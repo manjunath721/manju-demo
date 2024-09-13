@@ -1,4 +1,4 @@
 # manju-demo
-author-manju
+author-manjunat
 <br>
-update readme
+update readmea
